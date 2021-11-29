@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1629274650 source:c:\users\amanda\documents\eduardo\jogo da vida\projeto_final_q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1629771876 source:c:\users\lucas\desktop\estudos\fundamentos da programação\projeto_final_q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
